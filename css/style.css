@@ -1,0 +1,30 @@
+body {
+    background-color: oldlace;
+}
+
+header h1 {
+    text-align: center;
+    color: blue;
+}
+
+nav li {
+    display: inline-block;
+    white-space: inherit;
+}
+
+article section img {
+    size: 0;
+}
+
+.actions {
+    color: maroon;
+}
+
+footer {
+    text-align: center;
+}
+
+.act {
+    font-size: xx-large;
+    color: maroon;
+}
